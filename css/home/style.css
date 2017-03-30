@@ -454,7 +454,7 @@ Projects
   font-style: italic;
   line-height: 1.2;
   text-align: justify;
-  padding: .4em 2em .4em 2em;
+  padding: .4em 2em .4em 20em;
   opacity: .8;
 }
 @media only screen and (min-width: 1024px) {
